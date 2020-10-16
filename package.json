@@ -1,0 +1,16 @@
+{
+  "name": "drone-video-maker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "convert": "node index.js"
+  },
+  "keywords": [],
+  "author": "maxi <maxicespedes7@hotmail.com> (https://m4x.io)",
+  "license": "ISC",
+  "dependencies": {
+    "fluent-ffmpeg": "^2.1.2"
+  }
+}
